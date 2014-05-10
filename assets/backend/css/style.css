@@ -1,0 +1,5 @@
+/*body { font-family: 'lucida grande',tahoma,verdana,arial,sans-serif; font-size: 12px; background: #fff; }*/
+body { font-size: 14px; font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif; padding-top: 50px; padding-bottom: 30px; min-width: 970px; }
+.container { max-width: none !important; width: 970px; }
+textarea { resize: none; }
+#photo-modal .modal-dialog { width: 960px; }
